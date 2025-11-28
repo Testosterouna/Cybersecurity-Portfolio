@@ -59,7 +59,7 @@ Here are my major GitHub repositories that showcase my security work:
 
 ## 🔥 **1. SOC Incident Response Portfolio**  
 📁 *Incident Reports, APT Analysis, Lateral Movement, MITRE, SIEM logs*  
-🔗 **Repository:** _Add link once created_
+🔗 **Repository:** [_SOC Incident Response Portfolio_](https://github.com/Testosterouna/SOC-Incident-Response-Portfolio)
 
 **Highlights:**
 - 10+ DFIR-style reports  
@@ -75,7 +75,7 @@ Here are my major GitHub repositories that showcase my security work:
 
 ## 🧨 **2. VulnHub Offensive Security Portfolio**  
 📁 *Red Teaming | Privilege Escalation | Web Exploitation | Pivoting*  
-🔗 **Repository:** _Add link once created_
+🔗 **Repository:** _[VulnHub Offensive Security Portfolio](https://github.com/Testosterouna/VulnHub-Pentesting-Labs)_
 
 **Machines included:**
 - Zico2  
@@ -96,7 +96,7 @@ Includes:
 
 ## 🧪 **3. Cybersecurity GRC & Documentation Portfolio**  
 📁 *Security Policies | Risk Assessments | Malware Training | Ransomware Defense*  
-🔗 **Repository:** _Add link once created_
+🔗 **Repository:** _[Cybersecurity GRC & Documentation](https://github.com/Testosterouna/Cybersecurity-GRC-Portfolio)_
 
 Includes:
 - Corporate Security Policy  
