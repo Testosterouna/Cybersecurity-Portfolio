@@ -11,11 +11,11 @@
 
 Hi! I'm **Sebastian**, a cybersecurity professional focused on:
 
-- **SOC Analysis (L1–L2)**  
+- **SOC Analysis**  
 - **Incident Response & Threat Investigation**  
 - **MITRE ATT&CK-based TTP analysis**  
 - **Pentesting & Vulnerability Research**  
-- **Detection Engineering (Sysmon, Wazuh, Sigma, KQL)**  
+- **Detection Engineering (Wazuh)**  
 - **Offensive & Defensive Security**
 
 I build hands-on labs, write professional incident reports, develop IR playbooks, and create real detection logic — the same work done in modern blue/red team environments.
